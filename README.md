@@ -12,6 +12,6 @@ LINESTRING Z (297883.3393 6700903.0698 21.88,297879.0193 6700907.7698 21.88),
 
 Method: JTS Polygonizer
 
-Demo: 
+Demo: https://bertt.github.io/lines_to_3dobject/demo
 
 ![image](https://github.com/user-attachments/assets/ccd074d6-73c4-43d6-affb-5de9a01682fd)
